@@ -1,0 +1,25 @@
+body{
+    font-size: 16px;
+}
+
+#container{
+    text-align: center;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+
+#container h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 4rem;
+}
+
+#container button, #container p {
+    font-size: 1rem;
+}
+
+#container button{
+    width: 250px;
+    border-radius: 5rem;
+    margin-bottom: 4rem;
+}
