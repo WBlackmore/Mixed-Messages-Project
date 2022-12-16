@@ -12,3 +12,8 @@ It works as so:
   3. The year, event and weather are returned in a string which is placed in a <p> tag on th frontend.
   4. Clicking the button again generates a new randomised set of variables and chaanges the output
 
+  Possible improvements/features:
+    1. Add imagery to correspond with results
+    2. Improve layout/style
+    3. Add more possible outcomes
+  
